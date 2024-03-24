@@ -18,6 +18,12 @@ img {
   transform: translate(-50%, -50%);
 }
 
+@media(max-width: 375px) {
+  .card {
+    width: 280px;
+  }
+}
+
 .profileInfo {
   align-items: center;
   display: flex;
@@ -47,3 +53,5 @@ img {
   justify-content: center;
   width: 100%;
 }
+
+
