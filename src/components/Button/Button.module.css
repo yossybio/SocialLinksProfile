@@ -1,0 +1,16 @@
+.link {
+  background-color: hsl(0, 0%, 20%);
+  border: none;
+  border-radius: 5px;
+  color: hsl(0, 0%, 100%);
+  font-weight: 600;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  width: 110%;
+}
+
+.link:hover {
+  background-color: hsl(75, 94%, 57%);
+  color: black;
+  cursor: pointer;
+}
