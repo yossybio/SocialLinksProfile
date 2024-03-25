@@ -1,6 +1,6 @@
 # Frontend Mentor - Social links profile solution
 
-This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/yossybio/SocialLinksProfile)
-- Live Site URL: [Add live site URL here](https://yossybio.github.io/SocialLinksProfile/)
+- Solution URL: [https://github.com/yossybio/SocialLinksProfile](https://github.com/yossybio/SocialLinksProfile)
+- Live Site URL: [https://yermian-SocialLinksProfile.netlify.app/](https://yermian-SocialLinksProfile.netlify.app/)
 
 ## My process
 
