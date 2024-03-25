@@ -15,8 +15,6 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -31,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/yossybio/SocialLinksProfile)
+- Live Site URL: [Add live site URL here](https://yossybio.github.io/SocialLinksProfile/)
 
 ## My process
 
