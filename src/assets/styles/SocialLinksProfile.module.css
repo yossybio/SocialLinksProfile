@@ -6,21 +6,21 @@ img {
   align-items: center;
   background-color: hsl(0, 0%, 12%);
   border: none;
-  border-radius: 14px;
+  border-radius: 1.4rem;
   display: flex;
   flex-direction: column;
-  gap: 25px;
+  gap: 2.5rem;
   justify-content: center;
   left: 50%;
-  padding: 35px;
+  padding: 3.5rem;
   position: absolute;
   top: 50%;
   transform: translate(-50%, -50%);
 }
 
-@media(max-width: 375px) {
+@media(max-width: 24em) {
   .card {
-    width: 280px;
+    width: 28rem;
   }
 }
 
@@ -28,7 +28,7 @@ img {
   align-items: center;
   display: flex;
   flex-direction: column;
-  gap: 8px;
+  gap: 0.8rem;
 }
 .name {
   color: hsl(0, 0%, 100%);
@@ -41,15 +41,14 @@ img {
 
 .role {
   color: hsl(0, 0%, 100%);
-  font-size: 11.2px;
-  margin-bottom: -5px;
+  margin-bottom: -0.5rem;
 }
 
 .links {
   align-items: center;
   display: flex;
   flex-direction: column;
-  gap: 15px;
+  gap: 1.5rem;
   justify-content: center;
   width: 100%;
 }
