@@ -17,13 +17,7 @@ img {
   margin-top: 50vh;
   padding: 4rem;
   transform: translate(0, -50%);
-  width: 26.67%;
-}
-
-@media (max-width: 27em) {
-  .card {
-    width: 28rem;
-  }
+  width: 26.67vw;
 }
 
 .name {
@@ -57,4 +51,39 @@ img {
   justify-content: center;
 
   width: 100%;
+}
+
+/* Media query for 1275px screens: */
+@media (max-width: 80rem) {
+  .card {
+    width: 37vw;
+  }
+}
+
+/* Media query for 1024px screens: */
+@media (max-width: 64rem) {
+  .card {
+    width: 45vw;
+  }
+}
+
+/* Media query for 768px screens: */
+@media (max-width: 48rem) {
+  .card {
+    width: 60vw;
+  }
+}
+
+/* Media query for 568px screens: */
+@media (max-width: 36rem) {
+  .card {
+    width: 80vw;
+  }
+}
+
+/* Media query for 425px screens: */
+@media (max-width: 27rem) {
+  .card {
+    width: 88vw;
+  }
 }
