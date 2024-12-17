@@ -7,7 +7,7 @@ export default function SocialLinksProfile() {
   return (
     <dialog open className={classes.card}>
       <img width="88px" height="88px" src={ProfileImg} alt="Profile img" />
-      <div>
+      <div className={classes.profileInfo}>
         <h2 className={classes.name}>Jessica Randall</h2>
         <h5 className={classes.address}>London, United Kingdom</h5>
       </div>
